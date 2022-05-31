@@ -8,9 +8,9 @@
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelsgab&show_icons=true&theme=dracula&locale=en&layout=compact" alt="michelsgab" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=michelsgab&theme=dracula" alt="michelsgab" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=michelsgab&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="michelsgab" /> </p>
 </div>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=michelsgab&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="michelsgab" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
