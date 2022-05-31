@@ -8,7 +8,7 @@
   <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelsgab&theme=dracula" alt="michelsgab" /></p>
 </div>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michelsgab)](https://github.com/anuraghazra/github-readme-stats)
+[![michelsgab's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michelsgab)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
