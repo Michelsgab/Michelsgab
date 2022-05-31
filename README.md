@@ -3,15 +3,14 @@
 
 <div align="center">
   <a href="https://github.com/michelsgab">
-</div>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michelsgab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="michelsgab" /></p>
+    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=michelsgab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="michelsgab" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelsgab&show_icons=true&theme=dracula&locale=en&layout=compact" alt="michelsgab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michelsgab&theme=dracula" alt="michelsgab" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelsgab&label=Profile%20views&color=0e75b6&style=flat&theme=dracula" alt="michelsgab" /> </p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
