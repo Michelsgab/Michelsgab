@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelsgab&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelsgab&show_icons=true&locale=en&layout=compact&theme=dracula" alt="michelsgab" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelsgab&show_icons=true&locale=en&theme=dracula" alt="michelsgab" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
