@@ -8,7 +8,7 @@
   <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelsgab&theme=react" alt="michelsgab" /></p>
 </div>
 
-<div>
+<div style="display: inline_block">
   <span>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
