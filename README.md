@@ -2,7 +2,7 @@
 <h3 align="center">I'm a frontend trainee and passionate about programming</h3>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/michelsgab">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelsgab&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelsgab&layout=compact&langs_count=7&theme=react"/>
   <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=michelsgab&theme=react" alt="michelsgab" /></p>
